@@ -1,0 +1,6 @@
+<testcase name="Auth check">
+    <teststep name="Launch" priority="hight" component="one">Click on app button</teststep>
+    <teststep name="Wait" priority="low" component="two">Wait for load</teststep>
+    <teststep name="Look" priority="normal" component="three">Look at result</teststep>
+    <teststep name="Emotion" priority="hight" component="four">Feel happiness</teststep>
+</testcase>
